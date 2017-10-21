@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Οχήματα Πολητικών</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript" src="jsonpath-0.8.0.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="pothen_esxes.js"></script>
+</head>
+<body>
+	<div id="chart_div"></div>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			var makes = jsonPath(pothen_esxes,'$..vehicleDescription.metaValue');
+			var counts = {}, i, value;
+			for (i = 0; i < makes.length; i++) {
+			    value = makes[i];
+			    if (typeof counts[value] === "undefined") {
+			        counts[value] = 1;
+			    } else {
+			        counts[value]++;
+			    }
+			}
+			counts_array = [];
+			counts_array.push(["Μάρκα Οχήματος", "Αριθμός"]);
+			for (var prop in counts) {
+				if (prop == '') {
+					counts_array.push(["Άγνωστη" , counts[prop]]);
+				}
+				else {
+					counts_array.push([prop , counts[prop]]);
+				}
+			}
+			google.charts.load("current", {packages:['corechart']});
+			google.charts.setOnLoadCallback(drawChart);
+			function drawChart() {
+				var data = google.visualization.arrayToDataTable(counts_array);
+				data.sort({column: 0, desc: false});
+				var options = {
+					title: "Οχήματα Πολιτικών",
+					width: 1000,
+					height: 700,
+					bar: {groupWidth: '95%'},
+					legend: {position: 'none'},
+					hAxis: {ticks: [0,5,10,15,20,25,30], title: "Αριθμός"},
+					vAxis: {title: "Μάρκα"}
+				};
+				var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+				chart.draw(data, options);
+			}
+			
+		});
+		
+		
+	</script>
+</body>
+</html>
