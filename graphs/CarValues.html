@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Αξία Οχημάτων Πολητικών</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript" src="jsonpath-0.8.0.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="pothen_esxes.js"></script>
+</head>
+<body>
+	<h1></h1>
+	<div id="chart_div"></div>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			var values = jsonPath(pothen_esxes,'$..vehicleValue.metaValue');
+			sections_array = [];
+			sections_graph = [];
+			sections_graph.push(["Αξία Οχήματος", "Αριθμός Οχημάτων"]);
+			for (var prop in values) {
+				if (values[prop] > 0) {
+					index = Math.floor(values[prop]/10000);
+					if ( sections_array[index] !== void 0 ) {
+						sections_array[index]++;
+					}
+					else {
+						sections_array[index] = 1;
+					}
+				}
+			}
+			count=0;
+			sections_array.forEach(function(elment, index) {
+				if (index != count) {
+					sections_array[count] = 0;
+				}
+				count++;
+			});
+			count = 1;
+			sections_array.forEach(function(element, index) {
+				if (count == 1) {
+					sections_graph.push(['€1-10,000',element]);
+					count++;
+				}
+				else {
+					start = index*10000;
+					end = index*10000 + 10000;
+					sections_graph.push(['€'+ start.toLocaleString('en') + '-' + end.toLocaleString('en'),element]);
+				}
+			});
+			console.log(sections_graph);	
+			google.charts.load("current", {packages:['corechart']});
+			google.charts.setOnLoadCallback(drawChart);
+			function drawChart() {
+				var data = google.visualization.arrayToDataTable(sections_graph);
+				var options = {
+					title: "Aξία Οχήματων Πολιτικών",
+					width: 1000,
+					height: 700,
+					bar: {groupWidth: '95%'},
+					legend: {position: 'none'},
+					vAxis: {title: "Αριθμός Οχημάτων", format: '#,###',},
+					hAxis: {title: "Αξία Οχήματος"},
+				};
+				var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+				chart.draw(data, options);
+			}
+			
+		});
+		
+		
+	</script>
+</body>
+</html>
