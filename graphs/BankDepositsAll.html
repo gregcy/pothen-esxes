@@ -20,7 +20,6 @@
 			bank_graph_array.push(["Τραπεζικό Ίδρυμα","Ποσό"]);
 			var deposits_sum = bank_amounts.reduce((a,b) => a+b, 0);
 			$('h4').append(deposits_sum.toLocaleString('en'));
-			console.log(deposits_sum.toLocaleString('en'));
 
 			for (var prop in bank_names ) {
 				bank_name = bank_names[prop];

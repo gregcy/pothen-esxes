@@ -33,14 +33,11 @@
 				 	bank_array[bank_name] += bank_amount;
 				}
 			}
-			console.log(typeof(bank_array));
 
 			for (var prop in bank_array ) {
-				console.log(prop + ' ' + bank_array[prop]); 
 				bank_graph_array.push([prop,bank_array[prop]]);
 			}
 			
-			console.log(bank_graph_array);
 			google.charts.load("current", {packages:['corechart']});
 			google.charts.setOnLoadCallback(drawChart);
 			function drawChart() {
