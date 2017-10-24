@@ -2,28 +2,31 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Καταθέσεις Πολητικών</title>
+<title>Χρέη Πολητικών</title>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script type="text/javascript" src="jsonpath-0.8.0.js"></script>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="pothen_esxes.js"></script>
 </head>
 <body>
-	<h4>Σύνολο Καταθέσεων: €</h4>
+	<h4>Σύνολο Χρεών: €</h4>
 	<div id="chart_div"></div>
 	<script type="text/javascript">
 		$(document).ready(function() {
-			var bank_names = jsonPath(pothen_esxes,'$..bankName.metaValue');
-			var bank_amounts = jsonPath(pothen_esxes, '$..depositAmount.metaValue');
+			var bank_names = jsonPath(pothen_esxes,'$..debtor.metaValue');
+			var bank_amounts = jsonPath(pothen_esxes, '$..debtAmount.metaValue');
 			bank_array =[];
 			bank_graph_array = [];
 			bank_graph_array.push(["Τραπεζικό Ίδρυμα","Ποσό"]);
 			var deposits_sum = bank_amounts.reduce((a,b) => a+b, 0);
 			$('h4').append(deposits_sum.toLocaleString('en'));
-
 			for (var prop in bank_names ) {
 				bank_name = bank_names[prop];
-				bank_amount = bank_amounts[prop]; 
+				bank_amount = bank_amounts[prop];
+				if (bank_name.includes("ΣΠΕ") || bank_name.includes("Συνεργατική") || bank_name.includes("Συνεργατικό") ) {
+					bank_name = "Συνεργατική Κυπριακή Τράπεζα";
+				}
+				
 				if (typeof bank_array[bank_name] === "undefined") {
 				 	bank_array[bank_name] = bank_amount;
 				} else {
@@ -41,14 +44,14 @@
 				var data = google.visualization.arrayToDataTable(bank_graph_array);
 				data.sort({column: 1, desc: false});
 				var options = {
-					title: "Καταθέσεις Πολητικών",
+					title: "Χρέη Πολητικών",
 					width: 1500,
-					height: 1500,
+					height: 800,
 					bar: {groupWidth: '95%'},
 					legend: {position: 'none'},
 					hAxis: {title: "Ποσό", ticks: [0,600000,1200000],format:'€###,###,###.00'},
-					vAxis: {title: "Τραπεζικό Ίδρυμα", textStyle : {fontSize: 11 }},
-					chartArea: {left:450, width:550 ,height: "90%"},
+					vAxis: {title: "Τραπεζικό Ίδρυμα",},
+					chartArea: {left:400, width:550,height: "90%"},
 				};
 				var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
 				chart.draw(data, options);

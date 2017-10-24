@@ -42,7 +42,7 @@
 			google.charts.setOnLoadCallback(drawChart);
 			function drawChart() {
 				var data = google.visualization.arrayToDataTable(bank_graph_array);
-				data.sort({column: 0, desc: false});
+				data.sort({column: 1, desc: false});
 				var options = {
 					title: "Καταθέσεις Πολητικών",
 					width: 1500,
