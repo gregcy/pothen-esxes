@@ -2,24 +2,29 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Χρέη Πολητικών</title>
+<title>Χρέη Πολιτικών</title>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script type="text/javascript" src="jsonpath-0.8.0.js"></script>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="pothen_esxes.js"></script>
 </head>
 <body>
-	<h4>Σύνολο Χρεών: €</h4>
+	<h4 id="total">Σύνολο Χρεών: </h4>
+	<h4 id="average">Μέσο Ποσό Χρέους: </h4>
 	<div id="chart_div"></div>
 	<script type="text/javascript">
 		$(document).ready(function() {
 			var bank_names = jsonPath(pothen_esxes,'$..debtor.metaValue');
 			var bank_amounts = jsonPath(pothen_esxes, '$..debtAmount.metaValue');
+			var politicians = jsonPath(pothen_esxes, '$..declaration');
+			var number_of_politicians = politicians[0].length;
 			bank_array =[];
 			bank_graph_array = [];
 			bank_graph_array.push(["Τραπεζικό Ίδρυμα","Ποσό"]);
-			var deposits_sum = bank_amounts.reduce((a,b) => a+b, 0);
-			$('h4').append(deposits_sum.toLocaleString('en'));
+			var debts_sum = bank_amounts.reduce((a,b) => a+b, 0);
+			var average_debt = debts_sum/number_of_politicians;
+			$('h4#total').append(debts_sum.toLocaleString('en', { style: 'currency', currency: 'EUR' }));
+			$('h4#average').append(average_debt.toLocaleString('en',{ style: 'currency', currency: 'EUR' }));
 			for (var prop in bank_names ) {
 				bank_name = bank_names[prop];
 				bank_amount = bank_amounts[prop];
@@ -42,14 +47,16 @@
 			google.charts.setOnLoadCallback(drawChart);
 			function drawChart() {
 				var data = google.visualization.arrayToDataTable(bank_graph_array);
+				var formatter = new google.visualization.NumberFormat({decimalSymbol: '.',groupingSymbol: ',', prefix: '€'});
 				data.sort({column: 1, desc: false});
+				formatter.format(data, 1);
 				var options = {
-					title: "Χρέη Πολητικών",
+					title: "Χρέη Πολιτικών",
 					width: 1500,
 					height: 800,
 					bar: {groupWidth: '95%'},
 					legend: {position: 'none'},
-					hAxis: {title: "Ποσό", ticks: [0,600000,1200000],format:'€###,###,###.00'},
+					hAxis: {title: "Ποσό", format:'€###,###,###'},
 					vAxis: {title: "Τραπεζικό Ίδρυμα",},
 					chartArea: {left:400, width:550,height: "90%"},
 				};

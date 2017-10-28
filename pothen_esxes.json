@@ -422,7 +422,7 @@
 							},
 							"acquisition": {
 								"label": "Τρόπος Απόκτησης",
-								"value": "Δωρεά από μητέρα &amp; θεία"
+								"value": "Δωρεά από μητέρα & θεία"
 							},
 							"yearOfAcquisition": {
 								"label": "Χρόνος Απόκτησης",
@@ -2740,7 +2740,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Laiki Cyprialife"
+									"value": "Laiki Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -2754,7 +2755,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Laiki Cyprialife"
+									"value": "Laiki Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -2768,7 +2770,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "ΑΛΙΚΟ"
+									"value": "ΑΛΙΚΟ",
+									"metaValue": "Metalife Alico"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -2884,7 +2887,7 @@
 					},
 					"office": {
 						"label": "Ιδιότητα - Αξίωμα",
-						"value": "Υπουργός Ενέργειας, Εμπορίου, Βιομηχανίας &amp; Τουρισμού"
+						"value": "Υπουργός Ενέργειας, Εμπορίου, Βιομηχανίας & Τουρισμού"
 					},
 					"address": {
 						"label": "Διεύθυνση κατοικίας",
@@ -3214,7 +3217,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife"
+									"value": "Eurolife",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -3228,7 +3232,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife"
+									"value": "Eurolife",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -3242,7 +3247,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Laiki Cyprialife"
+									"value": "Laiki Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -3870,7 +3876,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife"
+									"value": "Eurolife",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -3884,7 +3891,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Prime Insuracne"
+									"value": "Prime Insuracne",
+									"metaValue": "Prime Insurance"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -3898,7 +3906,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Prime Insurance"
+									"value": "Prime Insurance",
+									"metaValue": "Prime Insurance"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -4344,7 +4353,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Allianz Ελλάς Ανώνυμη Ασφαλιστική  Εταιρεία (Ομαδική Ασφάλεια Ζωής)"
+									"value": "Allianz Ελλάς Ανώνυμη Ασφαλιστική  Εταιρεία (Ομαδική Ασφάλεια Ζωής)",
+									"metaValue": "Allianz"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -4882,7 +4892,7 @@
 							},
 							"rightsAndBurdens": {
 								"label": "Εμπράγματα δικαιώματα και βάρη επ' αυτής",
-								"value": "Συνεργατική Οικοδομική &amp; Ταμιευτήριο Δηµοσίων Υπαλλήλων Κύπρου Λτδ, για εξασφάλιση δανείου της Μαρίας Κινάνη "
+								"value": "Συνεργατική Οικοδομική & Ταμιευτήριο Δηµοσίων Υπαλλήλων Κύπρου Λτδ, για εξασφάλιση δανείου της Μαρίας Κινάνη "
 							},
 							"acquisition": {
 								"label": "Τρόπος Απόκτησης",
@@ -5146,7 +5156,7 @@
 							{
 								"liquidAssetType": {
 									"label": "Είδος συμμετοχής",
-									"value": "Warrants στην δημόσια εταιρεία Severis &amp; Athienitis Financial Services Ltd ( War. 02/06 )"
+									"value": "Warrants στην δημόσια εταιρεία Severis & Athienitis Financial Services Ltd ( War. 02/06 )"
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
@@ -5172,7 +5182,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Μετοχές στην δημόσια εταιρεία Severis &amp; Athienitis Financial Services Ltd."
+									"value": "Μετοχές στην δημόσια εταιρεία Severis & Athienitis Financial Services Ltd."
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -5408,7 +5418,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Cyprialife"
+									"value": "Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -5980,7 +5991,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Cyprialife"
+									"value": "Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -5994,7 +6006,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife"
+									"value": "Eurolife",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -6008,7 +6021,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife"
+									"value": "Eurolife",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -6022,7 +6036,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Metalife Alico"
+									"value": "Metalife Alico",
+									"metaValue": "Metalife Alico"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -6524,7 +6539,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "CNP Cyprialife (Life)"
+									"value": "CNP Cyprialife (Life)",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -8308,7 +8324,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal Life"
+									"value": "Universal Life",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -8322,7 +8339,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Prime Insurance"
+									"value": "Prime Insurance",
+									"metaValue": "Prime Insurance"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -8336,7 +8354,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Εθνική Ασφαλιστική"
+									"value": "Εθνική Ασφαλιστική",
+									"metaValue": "Εθνική Ασφαλιστική Κύπρου"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -8954,7 +8973,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Εθνική Ασφαλιστική"
+									"value": "Εθνική Ασφαλιστική",
+									"metaValue": "Εθνική Ασφαλιστική Κύπρου"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -8968,7 +8988,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Μινέρβα Ασφαλιστική"
+									"value": "Μινέρβα Ασφαλιστική",
+									"metaValue": "Μινέρβα Ασφαλιστική Εταιρεία"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -9662,7 +9683,7 @@
 						{
 							"companyName": {
 								"label": "Όνομα επιχείρησης",
-								"value": "A.P Kyprianou &amp; Sons Ltd"
+								"value": "A.P Kyprianou & Sons Ltd"
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
@@ -9698,7 +9719,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "A.P Kyprianou &amp; Sons Ltd"
+									"value": "A.P Kyprianou & Sons Ltd"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -9736,7 +9757,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal"
+									"value": "Universal",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -9750,7 +9772,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Cyprialife"
+									"value": "Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -9764,7 +9787,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife"
+									"value": "Eurolife",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -9778,7 +9802,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife"
+									"value": "Eurolife",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -9792,7 +9817,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife"
+									"value": "Eurolife",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -10088,7 +10114,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "CNP Cyprialife"
+									"value": "CNP Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -10102,7 +10129,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "CNP Cyprialife"
+									"value": "CNP Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -10116,7 +10144,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Cosmos Ασφαλιστική"
+									"value": "Cosmos Ασφαλιστική",
+									"metaValue": "Cosmos Insurance"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -10544,7 +10573,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Metlife"
+									"value": "Metlife",
+									"metaValue": "Metalife Alico"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -10558,7 +10588,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Metlife"
+									"value": "Metlife",
+									"metaValue": "Metalife Alico"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -10572,7 +10603,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Metlife"
+									"value": "Metlife",
+									"metaValue": "Metalife Alico"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -10586,7 +10618,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Metlife"
+									"value": "Metlife",
+									"metaValue": "Metalife Alico"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -10600,7 +10633,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Metlife"
+									"value": "Metlife",
+									"metaValue": "Metalife Alico"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -11444,7 +11478,7 @@
 						{
 							"companyName": {
 								"label": "Όνομα επιχείρησης",
-								"value": "Άριστος Δαμιανού &amp; Συνεργάτες ΔΕΠΕ"
+								"value": "Άριστος Δαμιανού & Συνεργάτες ΔΕΠΕ"
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
@@ -11504,7 +11538,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Laiki Cypria Life"
+									"value": "Laiki Cypria Life",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -12492,7 +12527,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife"
+									"value": "Eurolife",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -12506,7 +12542,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife  (Medical)"
+									"value": "Eurolife  (Medical)",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -12520,7 +12557,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife:  (Life Plan)"
+									"value": "Eurolife:  (Life Plan)",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -13104,7 +13142,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal"
+									"value": "Universal",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -13118,7 +13157,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife"
+									"value": "Eurolife",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -13420,7 +13460,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal Lfe Unilife"
+									"value": "Universal Lfe Unilife",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -13434,7 +13475,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Prime"
+									"value": "Prime",
+									"metaValue": "Prime Insurance"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -13834,7 +13876,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "CNP Cyprialife"
+									"value": "CNP Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -13848,7 +13891,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "CNP Cyprialife"
+									"value": "CNP Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -13862,7 +13906,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Allianz Ελλάς Α.Ε"
+									"value": "Allianz Ελλάς Α.Ε",
+									"metaValue": "Allianz"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -13876,7 +13921,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Allianz Ελλάς Α.Ε"
+									"value": "Allianz Ελλάς Α.Ε",
+									"metaValue": "Allianz"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -13951,7 +13997,7 @@
 							},
 							"debtType": {
 								"label": "Είδος χρέους",
-								"value": "Τρεχούμενος &amp; Πιστωτική Κάρτα"
+								"value": "Τρεχούμενος & Πιστωτική Κάρτα"
 							},
 							"debtAmount": {
 								"label": "Ποσό χρέους",
@@ -14238,7 +14284,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Medlife Alico"
+									"value": "Medlife Alico",
+									"metaValue": "Metalife Alico"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -14252,7 +14299,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Medlife Alico"
+									"value": "Medlife Alico",
+									"metaValue": "Metalife Alico"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -14946,7 +14994,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Μινέρβα"
+									"value": "Μινέρβα",
+									"metaValue": "Μινέρβα Ασφαλιστική Εταιρεία"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -15474,7 +15523,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "CNP Cyprialife"
+									"value": "CNP Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -15488,7 +15538,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "CNP Cyprialife"
+									"value": "CNP Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -15802,7 +15853,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife ασφάλεια ζωής"
+									"value": "Eurolife ασφάλεια ζωής",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -17140,7 +17192,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Τ.Κ.Φ &amp; Θ Οικοπεδική Λτδ"
+									"value": "Τ.Κ.Φ & Θ Οικοπεδική Λτδ"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -17446,7 +17498,7 @@
 							},
 							"type": {
 								"label": "Είδος",
-								"value": "Κτοικία &amp; Οικόπεδο"
+								"value": "Κτοικία & Οικόπεδο"
 							},
 							"topographicData": {
 								"label": "Τοπογραφικά στοιχεία",
@@ -17604,7 +17656,7 @@
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
-								"value": "Συμβουλευτικό &amp; Λογιστικό Γραφείο"
+								"value": "Συμβουλευτικό & Λογιστικό Γραφείο"
 							},
 							"companyParticipation": {
 								"label": "Είδος συμμετοχής",
@@ -17614,7 +17666,7 @@
 						{
 							"companyName": {
 								"label": "Όνομα επιχείρησης",
-								"value": "Α&amp;Η Χρηματοοικονομική Λτδ"
+								"value": "Α&Η Χρηματοοικονομική Λτδ"
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
@@ -17678,7 +17730,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "A&amp;H Χρηματοοικονομική Λτδ"
+									"value": "A&H Χρηματοοικονομική Λτδ"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -17692,7 +17744,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Σπύρος Μυριάνθους &amp; Υιοί Λτδ"
+									"value": "Σπύρος Μυριάνθους & Υιοί Λτδ"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -17732,7 +17784,7 @@
 						"order": "ε",
 						"title": "Άλλα εισοδήματα",
 						"otherIncome": {
-							"value": "<p>Στην εταιρεία Α&amp;Η Χρηματοοικονομική λτδ υπάρουν δυο ακίνητα.</p><br /> <p>Το (Α) Ακίνητο διαμέρισμα στην Πόλη Χρυσοχούς το οποίο αγοράστηκε με δάνειο. Το (Β) ακίνητο αφορά οικόπεδο στο οποίο ανεγέρθηκαν 4 μεζονέτες το 2007. Η αξία αγορά του οικοπεέδυ και η ανέγερση του κτηρίου ήταν €320,000 η σημερινή αξία είναι €500,000. Έγινε δάνειο από το συνεργατικό ταμιευτήριο το οποίο είναι στο όνομα μου.</p><br />"
+							"value": "<p>Στην εταιρεία Α&Η Χρηματοοικονομική λτδ υπάρουν δυο ακίνητα.</p><br /> <p>Το (Α) Ακίνητο διαμέρισμα στην Πόλη Χρυσοχούς το οποίο αγοράστηκε με δάνειο. Το (Β) ακίνητο αφορά οικόπεδο στο οποίο ανεγέρθηκαν 4 μεζονέτες το 2007. Η αξία αγορά του οικοπεέδυ και η ανέγερση του κτηρίου ήταν €320,000 η σημερινή αξία είναι €500,000. Έγινε δάνειο από το συνεργατικό ταμιευτήριο το οποίο είναι στο όνομα μου.</p><br />"
 						}
 					}
 					]
@@ -18080,7 +18132,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Alico Life"
+									"value": "Alico Life",
+									"metaValue": "Metalife Alico"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -18460,7 +18513,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife Ασφαλιστική"
+									"value": "Eurolife Ασφαλιστική",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -18474,7 +18528,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Allianz"
+									"value": "Allianz",
+									"metaValue": "Allianz"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -18934,7 +18989,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal Life Insurance Company Ltd"
+									"value": "Universal Life Insurance Company Ltd",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -18948,7 +19004,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Laiki Cyprialife"
+									"value": "Laiki Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -19007,7 +19064,7 @@
 							},
 							"debtType": {
 								"label": "Είδος χρέους",
-								"value": "Οικοδομικό για ανέγερση κατοικίας &amp; σπουδές παιδιών"
+								"value": "Οικοδομικό για ανέγερση κατοικίας & σπουδές παιδιών"
 							},
 							"debtAmount": {
 								"label": "Ποσό χρέους",
@@ -19698,7 +19755,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife Ltd"
+									"value": "Eurolife Ltd",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -20064,7 +20122,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "K &amp; G Complex Public Co"
+									"value": "K & G Complex Public Co"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -20230,7 +20288,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Allianz Ελλάς ΑΑΕ (Ομαδ. Ασφ.)"
+									"value": "Allianz Ελλάς ΑΑΕ (Ομαδ. Ασφ.)",
+									"metaValue": "Allianz"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -20244,7 +20303,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal Life"
+									"value": "Universal Life",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -20258,7 +20318,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Prime Insurance"
+									"value": "Prime Insurance",
+									"metaValue": "Prime Insurance"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -20272,7 +20333,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Alpha Ασφαλιστική"
+									"value": "Alpha Ασφαλιστική",
+									"metaValue": "Alpha Ασφαλιστική"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -20286,7 +20348,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Alpha Ασφαλιστική"
+									"value": "Alpha Ασφαλιστική",
+									"metaValue": "Alpha Ασφαλιστική"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -20300,7 +20363,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Alpha Ασφαλιστική"
+									"value": "Alpha Ασφαλιστική",
+									"metaValue": "Alpha Ασφαλιστική"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -20314,7 +20378,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Metlife Alico"
+									"value": "Metlife Alico",
+									"metaValue": "Metalife Alico"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -20328,7 +20393,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Cyprialife"
+									"value": "Cyprialife",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -21024,7 +21090,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Putman Fund for Growth &amp; Income CLA"
+									"value": "Putman Fund for Growth & Income CLA"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -21134,7 +21200,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal Life"
+									"value": "Universal Life",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -21404,7 +21471,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal Life"
+									"value": "Universal Life",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -22130,7 +22198,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "CNP Cyprialife Ltd"
+									"value": "CNP Cyprialife Ltd",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -22157,7 +22226,7 @@
 					"order": 5,
 					"title": "Εισοδήματα προηγουμένων ετών που αποκτήθηκαν στο διάστημα που μεσολάβησε από την προηγούμενη μέχρι την παρούσα δήλωση",
 					"previousIncome": {
-						"value": "<p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2011</u></p><br /> <div> </div><br /> <div><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82.452</td><br /> </tr><tr><td style=\"font-size: 13px;\">Μισθός από Τάσσος Παπαδόπουλος &amp; Συνεργάτες Δ.Ε.Π.Ε</td><br /> <td style=\"font-size: 13px;\">34.775</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table><p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2012</u></p><br /> <div style=\"font-size: 13px;\"> </div><br /> <div style=\"font-size: 13px;\"><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82,975</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Μισθός από Τάσσος Παπαδόπουλος &amp; Συνεργάτες Δ.Ε.Π.Ε</td><br /> <td style=\"font-size: 13px;\">40,775</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table></div><br /> </div><br /> <p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2013</u></p><br /> <div style=\"font-size: 13px;\"> </div><br /> <div style=\"font-size: 13px;\"><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82,975</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Μισθός από Τάσσος Παπαδόπουλος &amp; Συνεργάτες Δ.Ε.Π.Ε</td><br /> <td style=\"font-size: 13px;\">49,087</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table></div><br /> <p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2014</u></p><br /> <div style=\"font-size: 13px;\"> </div><br /> <div style=\"font-size: 13px;\"><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82,975</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table></div><br /> <p> </p><br />"
+						"value": "<p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2011</u></p><br /> <div> </div><br /> <div><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82.452</td><br /> </tr><tr><td style=\"font-size: 13px;\">Μισθός από Τάσσος Παπαδόπουλος & Συνεργάτες Δ.Ε.Π.Ε</td><br /> <td style=\"font-size: 13px;\">34.775</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table><p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2012</u></p><br /> <div style=\"font-size: 13px;\"> </div><br /> <div style=\"font-size: 13px;\"><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82,975</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Μισθός από Τάσσος Παπαδόπουλος & Συνεργάτες Δ.Ε.Π.Ε</td><br /> <td style=\"font-size: 13px;\">40,775</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table></div><br /> </div><br /> <p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2013</u></p><br /> <div style=\"font-size: 13px;\"> </div><br /> <div style=\"font-size: 13px;\"><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82,975</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Μισθός από Τάσσος Παπαδόπουλος & Συνεργάτες Δ.Ε.Π.Ε</td><br /> <td style=\"font-size: 13px;\">49,087</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table></div><br /> <p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2014</u></p><br /> <div style=\"font-size: 13px;\"> </div><br /> <div style=\"font-size: 13px;\"><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82,975</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table></div><br /> <p> </p><br />"
 					}
 				},
 				{
@@ -22712,7 +22781,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal LIfe"
+									"value": "Universal LIfe",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -22726,7 +22796,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal Life"
+									"value": "Universal Life",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -22740,7 +22811,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal Life"
+									"value": "Universal Life",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -22754,7 +22826,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal Life"
+									"value": "Universal Life",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -22768,7 +22841,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "CNP Ασφαλιστική"
+									"value": "CNP Ασφαλιστική",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -23326,7 +23400,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal Life"
+									"value": "Universal Life",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -23616,7 +23691,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife - Ασφάλεια ζωής"
+									"value": "Eurolife - Ασφάλεια ζωής",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -24078,7 +24154,7 @@
 						{
 							"companyName": {
 								"label": "Όνομα επιχείρησης",
-								"value": "Πανίκος Α Λεωνίδου &amp; Σια"
+								"value": "Πανίκος Α Λεωνίδου & Σια"
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
@@ -24122,7 +24198,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife Ltd"
+									"value": "Eurolife Ltd",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -24140,7 +24217,7 @@
 						"order": "ε",
 						"title": "Άλλα εισοδήματα",
 						"otherIncome": {
-							"value": "<p><u>2017</u></p><br /> <p>Ενοίκια 1/2 - €2100 το χρόνο</p><br /> <p> </p><br /> <p>Αμοιβή από τον Συνεταιρισμό</p><br /> <p>Πανίκος Α Λεωνίδου &amp; Σια €3500.00 τον μήνα</p><br />"
+							"value": "<p><u>2017</u></p><br /> <p>Ενοίκια 1/2 - €2100 το χρόνο</p><br /> <p> </p><br /> <p>Αμοιβή από τον Συνεταιρισμό</p><br /> <p>Πανίκος Α Λεωνίδου & Σια €3500.00 τον μήνα</p><br />"
 						}
 					}
 					]
@@ -24224,7 +24301,7 @@
 						{
 							"debtor": {
 								"label": "Όνομα πιστωτή",
-								"value": "Δικηγορικό Γραφείο Πανίκος Α. Λεωνίδου &amp; Σια",
+								"value": "Δικηγορικό Γραφείο Πανίκος Α. Λεωνίδου & Σια",
 								"metaValue": "Δικηγορικό Γραφείο Πανίκος Α. Λεωνίδου & Σια"
 							},
 							"debtType": {
@@ -24990,7 +25067,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Metlife Alico"
+									"value": "Metlife Alico",
+									"metaValue": "Metalife Alico"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -25414,7 +25492,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Σ.Ο.ΤΑ.Δ.Υ.Κ"
+									"value": "Σ.Ο.ΤΑ.Δ.Υ.Κ",
+									"metaValue": "Συνεργατική Οικοδομική & Ταμιευτήριο Δημοσίων Υπαλλήλων Κύπρου ΛΤΔ"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -25832,7 +25911,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal Life Multicare"
+									"value": "Universal Life Multicare",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -25846,7 +25926,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Metlife Alico"
+									"value": "Metlife Alico",
+									"metaValue": "Metalife Alico"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -26048,7 +26129,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Allianz Ελλάς Ανώνυμη"
+									"value": "Allianz Ελλάς Ανώνυμη",
+									"metaValue": "Allianz"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -27088,7 +27170,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Γιουνιβέρσαλ Λαϊφ"
+									"value": "Γιουνιβέρσαλ Λαϊφ",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -27436,7 +27519,7 @@
 						{
 							"companyName": {
 								"label": "Όνομα επιχείρησης",
-								"value": "Χρ. Τζιοβάνης &amp; Σια Κατασκ. Δ.Ε. Λτδ"
+								"value": "Χρ. Τζιοβάνης & Σια Κατασκ. Δ.Ε. Λτδ"
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
@@ -27562,7 +27645,7 @@
 						{
 							"companyName": {
 								"label": "Όνομα επιχείρησης",
-								"value": "Giovanis &amp; Kalvaris Ltd"
+								"value": "Giovanis & Kalvaris Ltd"
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
@@ -27810,7 +27893,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Χρ. Τζιοβάνης &amp; Σια Κατ. Δ.Ε. Λτδ"
+									"value": "Χρ. Τζιοβάνης & Σια Κατ. Δ.Ε. Λτδ"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -27936,7 +28019,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Giovanis &amp; Kalvaris Ltd"
+									"value": "Giovanis & Kalvaris Ltd"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -28100,7 +28183,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife Ins. Com Ltd"
+									"value": "Eurolife Ins. Com Ltd",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -28114,7 +28198,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Hellenic Alico Life"
+									"value": "Hellenic Alico Life",
+									"metaValue": ""
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -28184,8 +28269,8 @@
 						{
 							"debtor": {
 								"label": "Όνομα πιστωτή",
-								"value": "Demitov Victor &amp; Demitova Nina",
-								"metaValue": "Demitov VIctor & Demitova Nina"
+								"value": "Demitov Victor & Demitova Nina",
+								"metaValue": "Demitov Victor & Demitova Nina"
 							},
 							"debtType": {
 								"label": "Είδος χρέους",
@@ -28358,7 +28443,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "A.P.Eorokritou &amp; Co LLC"
+									"value": "A.P.Eorokritou & Co LLC"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -28372,7 +28457,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "A.P Erotokriou &amp; Co LLC"
+									"value": "A.P Erotokriou & Co LLC"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -28596,7 +28681,7 @@
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
-								"value": "Ιδιωτική Εταιρεία Ασφ. Πρ. &amp; Συμβ. Λτδ"
+								"value": "Ιδιωτική Εταιρεία Ασφ. Πρ. & Συμβ. Λτδ"
 							},
 							"companyParticipation": {
 								"label": "Είδος συμμετοχής",
@@ -28672,7 +28757,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Regallia Holidngs &amp; Inversments Pub. Ltd  Εταιρεία"
+									"value": "Regallia Holidngs & Inversments Pub. Ltd  Εταιρεία"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -28724,7 +28809,7 @@
 						"order": "ε",
 						"title": "Άλλα εισοδήματα",
 						"otherIncome": {
-							"value": "<p>Χρ. Ορφανίδης Εταρεία Ασφαλιστικών Πρακτόρων &amp; Συμβούλων Λτδ €600</p><br />"
+							"value": "<p>Χρ. Ορφανίδης Εταρεία Ασφαλιστικών Πρακτόρων & Συμβούλων Λτδ €600</p><br />"
 						}
 					}
 					]
@@ -28982,7 +29067,7 @@
 						{
 							"debtor": {
 								"label": "Όνομα πιστωτή",
-								"value": "ΣΠΕ Ταμασσού - Ορεινής &amp; Πιτσιλιάς",
+								"value": "ΣΠΕ Ταμασσού - Ορεινής & Πιτσιλιάς",
 								"metaValue": "ΣΠΕ Ταμασσού-Ορεινής και Πιτσιλιάς Λτδ"
 							},
 							"debtType": {
@@ -29260,7 +29345,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife"
+									"value": "Eurolife",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -29274,7 +29360,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife"
+									"value": "Eurolife",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -29288,7 +29375,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Eurolife"
+									"value": "Eurolife",
+									"metaValue": "Eurolife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -29790,7 +29878,7 @@
 						{
 							"location": {
 								"label": "Τοποθεσία",
-								"value": "Λ. Πουλίου &amp; Καπότα  Π. Κερύνεια"
+								"value": "Λ. Πουλίου & Καπότα  Π. Κερύνεια"
 							},
 							"type": {
 								"label": "Είδος",
@@ -29824,7 +29912,7 @@
 						{
 							"location": {
 								"label": "Τοποθεσία",
-								"value": "Λ. Πουλίου &amp; Καπότα  Π. Κερύνεια"
+								"value": "Λ. Πουλίου & Καπότα  Π. Κερύνεια"
 							},
 							"type": {
 								"label": "Είδος",
@@ -31196,7 +31284,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "CNP Cyprialife  Ασφάλεια Ζωής"
+									"value": "CNP Cyprialife  Ασφάλεια Ζωής",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -31210,7 +31299,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "CNP Cyprialife  Ασφάλεια Ατυχημάτων"
+									"value": "CNP Cyprialife  Ασφάλεια Ατυχημάτων",
+									"metaValue": "Cyprialife"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -31224,7 +31314,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Universal Life Insurance"
+									"value": "Universal Life Insurance",
+									"metaValue": "Universal"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -32144,7 +32235,8 @@
 							{
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
-									"value": "Univeral Life"
+									"value": "Univeral Life",
+									"metaValue": ""
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",

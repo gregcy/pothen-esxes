@@ -2,18 +2,22 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Αξία Οχημάτων Πολητικών</title>
+<title>Αξία Οχημάτων Πολιτικών</title>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script type="text/javascript" src="jsonpath-0.8.0.js"></script>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="pothen_esxes.js"></script>
 </head>
 <body>
-	<h1></h1>
+	<h4 id="average">Μέση Αξία Οχήματος: </h4>
 	<div id="chart_div"></div>
 	<script type="text/javascript">
 		$(document).ready(function() {
 			var values = jsonPath(pothen_esxes,'$..vehicleValue.metaValue');
+			var values_sum = values.reduce((a,b) => a+b, 0);
+			var average_value = values_sum/values.length;
+			$('h4#average').append(average_value.toLocaleString('en',{ style: 'currency', currency: 'EUR' }));
+			
 			sections_array = [];
 			sections_graph = [];
 			sections_graph.push(["Αξία Οχήματος", "Αριθμός Οχημάτων"]);
@@ -47,7 +51,6 @@
 					sections_graph.push(['€'+ start.toLocaleString('en') + '-' + end.toLocaleString('en'),element]);
 				}
 			});
-			console.log(sections_graph);	
 			google.charts.load("current", {packages:['corechart']});
 			google.charts.setOnLoadCallback(drawChart);
 			function drawChart() {
