@@ -45,7 +45,7 @@
 					
 					google.charts.load("current", {packages:['corechart']});
 					google.charts.setOnLoadCallback(drawChart);
-					$('#ajaxLoder').hide();
+					$('#ajaxLoader').hide();
 					function drawChart() {
 						var data = google.visualization.arrayToDataTable(bank_graph_array);
 						var formatter = new google.visualization.NumberFormat({decimalSymbol: '.',groupingSymbol: ',', prefix: '€'});

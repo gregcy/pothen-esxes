@@ -37,7 +37,7 @@
 					}
 					google.charts.load("current", {packages:['corechart']});
 					google.charts.setOnLoadCallback(drawChart);
-					('#ajaxLoder').hide();
+					('#ajaxLoader').hide();
 					function drawChart() {
 						var data = google.visualization.arrayToDataTable(counts_array);
 						data.sort({column: 0, desc: false});

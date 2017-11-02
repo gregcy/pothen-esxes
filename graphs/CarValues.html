@@ -56,7 +56,7 @@
 					});
 					google.charts.load("current", {packages:['corechart']});
 					google.charts.setOnLoadCallback(drawChart);
-					$('#ajaxLoder').hide();
+					$('#ajaxLoader').hide();
 					function drawChart() {
 						var data = google.visualization.arrayToDataTable(sections_graph);
 						var options = {
