@@ -1,70 +1,72 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="UTF-8">
-<title>Καταθέσεις Πολιτικών</title>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script type="text/javascript" src="jsonpath-0.8.0.js"></script>
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="pothen_esxes.js"></script>
-</head>
-<body>
-	<h4 id="total">Σύνολο Καταθέσεων: </h4>
-	<h4 id="average">Μέσο Ποσό Καταθέσεων: </h4>
-	<div id="chart_div"></div>
-	<script type="text/javascript">
-		$(document).ready(function() {
-			var bank_names = jsonPath(pothen_esxes,'$..bankName.metaValue');
-			var bank_amounts = jsonPath(pothen_esxes, '$..depositAmount.metaValue');
-			var politicians = jsonPath(pothen_esxes, '$..declaration');
-			var number_of_politicians = politicians[0].length;
-			bank_array =[];
-			bank_graph_array = [];
-			bank_graph_array.push(["Τραπεζικό Ίδρυμα","Ποσό"]);
-			var deposits_sum = bank_amounts.reduce((a,b) => a+b, 0);
-			var average_deposit = deposits_sum/number_of_politicians;
-			$('h4#total').append(deposits_sum.toLocaleString('en',{ style: 'currency', currency: 'EUR' }));
-			$('h4#average').append(average_deposit.toLocaleString('en',{ style: 'currency', currency: 'EUR' }));
-
-			for (var prop in bank_names ) {
-				bank_name = bank_names[prop];
-				bank_amount = bank_amounts[prop]; 
-				if (typeof bank_array[bank_name] === "undefined") {
-				 	bank_array[bank_name] = bank_amount;
-				} else {
-				 	bank_array[bank_name] += bank_amount;
-				}
-			}
-
-			for (var prop in bank_array ) {
-				bank_graph_array.push([prop,bank_array[prop]]);
-			}
-			
-			google.charts.load("current", {packages:['corechart']});
-			google.charts.setOnLoadCallback(drawChart);
-			function drawChart() {
-				var data = google.visualization.arrayToDataTable(bank_graph_array);
-				var formatter = new google.visualization.NumberFormat({decimalSymbol: '.',groupingSymbol: ',', prefix: '€'});
-				data.sort({column: 1, desc: false});
-				formatter.format(data, 1);
-
-				var options = {
-					title: "Καταθέσεις Πολιτικών",
-					width: 1500,
-					height: 1500,
-					bar: {groupWidth: '95%'},
-					legend: {position: 'none'},
-					hAxis: {title: "Ποσό", ticks: [0,600000,1200000],format:'€###,###,###'},
-					vAxis: {title: "Τραπεζικό Ίδρυμα", textStyle : {fontSize: 11 }},
-					chartArea: {left:450, width:550 ,height: "90%"},
-				};
-				var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
-				chart.draw(data, options);
-			}
-			
-		});
+	<head>
+		<meta charset="UTF-8">
+		<title>Καταθέσεις Πολιτικών</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsel/1.1.4/jsel.min.js"></script>
+		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+		<style>#ajaxLoader { position: fixed; top: 50%; left:50%;-webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); }</style>
+	</head>
+	<body>
+		<h4 id="total">Σύνολο Καταθέσεων: </h4>
+		<h4 id="average">Μέσο Ποσό Καταθέσεων: </h4>
+		<div id="ajaxLoader"><img src="http://tldr.lostattic.com/static/ajax-loader.gif" alt="Ajax Loader"/></div>
+		<div id="chart_div"></div>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$.getJSON('http://tldr.lostattic.com/static/pothen_esxes.min.json',function (pothen_esxes) {
+					var dom = jsel(pothen_esxes);
+					var bank_names = dom.selectAll('//bankName/@metaValue');
+					var bank_amounts = dom.selectAll('//depositAmount/@metaValue');
+					var politicians = dom.selectAll('//declaration');
+					var number_of_politicians = politicians[0].length;
+					bank_array =[];
+					bank_graph_array = [];
+					bank_graph_array.push(["Τραπεζικό Ίδρυμα","Ποσό"]);
+					var deposits_sum = bank_amounts.reduce((a,b) => a+b, 0);
+					var average_deposit = deposits_sum/number_of_politicians;
+					$('h4#total').append(deposits_sum.toLocaleString('en',{ style: 'currency', currency: 'EUR' }));
+					$('h4#average').append(average_deposit.toLocaleString('en',{ style: 'currency', currency: 'EUR' }));
 		
+					for (var prop in bank_names ) {
+						bank_name = bank_names[prop];
+						bank_amount = bank_amounts[prop]; 
+						if (typeof bank_array[bank_name] === "undefined") {
+						 	bank_array[bank_name] = bank_amount;
+						} else {
+						 	bank_array[bank_name] += bank_amount;
+						}
+					}
 		
-	</script>
-</body>
+					for (var prop in bank_array ) {
+						bank_graph_array.push([prop,bank_array[prop]]);
+					}
+					
+					google.charts.load("current", {packages:['corechart']});
+					google.charts.setOnLoadCallback(drawChart);
+					$('#ajaxLoder').hide();
+					function drawChart() {
+						var data = google.visualization.arrayToDataTable(bank_graph_array);
+						var formatter = new google.visualization.NumberFormat({decimalSymbol: '.',groupingSymbol: ',', prefix: '€'});
+						data.sort({column: 1, desc: false});
+						formatter.format(data, 1);
+		
+						var options = {
+							title: "Καταθέσεις Πολιτικών",
+							width: 1500,
+							height: 1500,
+							bar: {groupWidth: '95%'},
+							legend: {position: 'none'},
+							hAxis: {title: "Ποσό", ticks: [0,600000,1200000],format:'€###,###,###'},
+							vAxis: {title: "Τραπεζικό Ίδρυμα", textStyle : {fontSize: 11 }},
+							chartArea: {left:450, width:550 ,height: "90%"},
+						};
+						var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+						chart.draw(data, options);
+					}
+				});
+			});
+		</script>
+	</body>
 </html>
