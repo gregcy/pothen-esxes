@@ -26,34 +26,35 @@
 					sections_graph.push(["Αξία Οχήματος", "Αριθμός Οχημάτων"]);
 					for (var prop in values) {
 						if (values[prop] > 0) {
-							index = Math.floor(values[prop]/10000);
-							if ( sections_array[index] !== void 0 ) {
-								sections_array[index]++;
+							index = Math.floor((values[prop]-1)/10000);
+							if ( sections_array[index.toString()] !== undefined ) {
+								sections_array[index.toString()]++;
 							}
 							else {
-								sections_array[index] = 1;
+								sections_array[index.toString()] = 1;
 							}
 						}
 					}
-					count=0;
 					sections_array.forEach(function(elment, index) {
-						if (index != count) {
-							sections_array[count] = 0;
+						if (typeof(element) == undefined) {
+							sections_array[index] = 0;
 						}
-						count++;
 					});
-					count = 1;
-					sections_array.forEach(function(element, index) {
+					for (count = 1; count <= sections_array.length; count++) {
 						if (count == 1) {
-							sections_graph.push(['€1-10,000',element]);
-							count++;
+							sections_graph.push(['€1-10,000',sections_array[count-1]]);
 						}
 						else {
-							start = index*10000;
-							end = index*10000 + 10000;
-							sections_graph.push(['€'+ start.toLocaleString('en') + '-' + end.toLocaleString('en'),element]);
+							start = (count-1)*10000+1;
+							end = (count-1)*10000 + 10000;
+							if (typeof(sections_array[count-1]) != undefined) {
+								sections_graph.push(['€'+ start.toLocaleString('en') + '-' + end.toLocaleString('en'),sections_array[count-1]]);
+							}
+							else {
+								sections_graph.push(['€'+ start.toLocaleString('en') + '-' + end.toLocaleString('en'),0]);
+							}
 						}
-					});
+					}
 					google.charts.load("current", {packages:['corechart']});
 					google.charts.setOnLoadCallback(drawChart);
 					$('#ajaxLoader').hide();
