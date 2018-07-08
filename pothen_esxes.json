@@ -1,3 +1,4 @@
+
 {
  "declarations": {
 	"declaration" : [
@@ -6,7 +7,8 @@
 			"title": "Νίκος Αναστασιάδης",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://www.presidency.gov.cy/presidency/presidency.nsf/prc01_gr/prc01_gr?OpenDocument",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/82.gif?itok=I6YX4TOj"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/82.gif?itok=l8oop6qK",
+			"wikidata_entity_id": "Q2112764"
 		},
 		"part": [
 			{
@@ -422,7 +424,7 @@
 							},
 							"acquisition": {
 								"label": "Τρόπος Απόκτησης",
-								"value": "Δωρεά από μητέρα & θεία"
+								"value": "Δωρεά από μητέρα &amp; θεία"
 							},
 							"yearOfAcquisition": {
 								"label": "Χρόνος Απόκτησης",
@@ -796,7 +798,8 @@
 			"title": "Δημήτρης Συλλούρης",
 			"politicalAffiliation": "Αλληλεγγύη",
 			"biographyLink": "http://www.parliament.cy/easyconsole.cfm/id/2050",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Sillouris-small.jpg?itok=hg53MFTk"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Sillouris-small.jpg?itok=X6CBXEDZ",
+			"wikidata_entity_id": "Q12875947"
 		},
 		"part": [
 			{
@@ -2873,7 +2876,8 @@
 			"title": "Γιώργος Λακκοτρύπης",
 			"politicalAffiliation": "ΔΗΚΟ",
 			"biographyLink": "http://www.mcit.gov.cy/mcit/mcit.nsf/dmlcv_gr/dmlcv_gr?OpenDocument",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/0%20%282%29.jpg?itok=jlrS53aF"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/0%20%282%29.jpg?itok=QyCzUbPh",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -2887,7 +2891,7 @@
 					},
 					"office": {
 						"label": "Ιδιότητα - Αξίωμα",
-						"value": "Υπουργός Ενέργειας, Εμπορίου, Βιομηχανίας & Τουρισμού"
+						"value": "Υπουργός Ενέργειας, Εμπορίου, Βιομηχανίας &amp; Τουρισμού"
 					},
 					"address": {
 						"label": "Διεύθυνση κατοικίας",
@@ -3350,7 +3354,8 @@
 			"title": "Γιώργος Παμπορίδης",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "https://www.moh.gov.cy/moh/moh.nsf/page11_gr/page11_gr?OpenDocument",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/0%20%286%29.jpg?itok=lZMWHP7Q"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/0%20%286%29.jpg?itok=zzwm-H0k",
+			"wikidata_entity_id": "Q48232669"
 		},
 		"part": [
 			{
@@ -4057,7 +4062,8 @@
 			"title": "Ζέτα Αιμιλιανίδου",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://www.mlsi.gov.cy/mlsi/mlsi.nsf/mlsi07_gr/mlsi07_gr?OpenDocument",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/0%20%283%29.jpg?itok=v71jgl4Z"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/0%20%283%29.jpg?itok=m4q49AvW",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -4440,7 +4446,8 @@
 			"title": "Ιωάννης Κασουλίδης",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://www.mfa.gov.cy/mfa/mfa2016.nsf/All/94DE287F193671EFC2257F9C00209CFD?OpenDocument",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/0.jpg?itok=-jFBUoqg"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/0.jpg?itok=z9EY3tPC",
+			"wikidata_entity_id": "Q1671928"
 		},
 		"part": [
 			{
@@ -4820,7 +4827,8 @@
 			"title": "Ιωνάς Νικολάου",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://www.mjpo.gov.cy/mjpo/mjpo.nsf/page11_gr/page11_gr?OpenDocument",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/0%20%285%29.jpg?itok=oA9NGNBF"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/0%20%285%29.jpg?itok=cSgoIzYy",
+			"wikidata_entity_id": "Q16329342"
 		},
 		"part": [
 			{
@@ -4892,7 +4900,7 @@
 							},
 							"rightsAndBurdens": {
 								"label": "Εμπράγματα δικαιώματα και βάρη επ' αυτής",
-								"value": "Συνεργατική Οικοδομική & Ταμιευτήριο Δηµοσίων Υπαλλήλων Κύπρου Λτδ, για εξασφάλιση δανείου της Μαρίας Κινάνη "
+								"value": "Συνεργατική Οικοδομική &amp; Ταμιευτήριο Δηµοσίων Υπαλλήλων Κύπρου Λτδ, για εξασφάλιση δανείου της Μαρίας Κινάνη "
 							},
 							"acquisition": {
 								"label": "Τρόπος Απόκτησης",
@@ -5156,7 +5164,7 @@
 							{
 								"liquidAssetType": {
 									"label": "Είδος συμμετοχής",
-									"value": "Warrants στην δημόσια εταιρεία Severis & Athienitis Financial Services Ltd ( War. 02/06 )"
+									"value": "Warrants στην δημόσια εταιρεία Severis &amp; Athienitis Financial Services Ltd ( War. 02/06 )"
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
@@ -5182,7 +5190,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Μετοχές στην δημόσια εταιρεία Severis & Athienitis Financial Services Ltd."
+									"value": "Μετοχές στην δημόσια εταιρεία Severis &amp; Athienitis Financial Services Ltd."
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -5489,7 +5497,8 @@
 			"title": "Κωνσταντίνος Πετρίδης",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://www.moi.gov.cy/moi/moi.nsf/page10_gr/page10_gr?OpenDocument",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/0%20%284%29.jpg?itok=-_jC6xtf"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/0%20%284%29.jpg?itok=BGgUhBrT",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -5781,7 +5790,8 @@
 			"title": "Κώστας Καδής",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://www.moec.gov.cy/minoffice/viografiko.html",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/kadis_kostas_index.jpg?itok=-YTDc_4l"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/kadis_kostas_index.jpg?itok=6p12aScH",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -6107,7 +6117,8 @@
 			"title": "Μάριος Δημητριάδης",
 			"politicalAffiliation": "ΔΗΚΟ",
 			"biographyLink": "http://www.mcw.gov.cy/mcw/mcw.nsf/mcw05_gr/mcw05_gr?OpenDocument",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/0.gif?itok=DqtZ8ATm"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/0.gif?itok=F_Oeh8hp",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -6610,7 +6621,8 @@
 			"title": "Νίκος Κουγιάλης",
 			"politicalAffiliation": "Αλληλεγγύη",
 			"biographyLink": "http://www.moa.gov.cy/moa/agriculture.nsf/page04_gr/page04_gr?OpenDocument",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/102.gif?itok=DJAPXJWY"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/102.gif?itok=48LDBJRV",
+			"wikidata_entity_id": "Q25536182"
 		},
 		"part": [
 			{
@@ -6902,7 +6914,8 @@
 			"title": "Σωκράτης Χάσικος",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/0%20%281%29.jpg?itok=niU_3KrH"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/0%20%281%29.jpg?itok=rEuDKyQ2",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -7388,7 +7401,8 @@
 			"title": "Χάρης Γεωργιάδης",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://mof.gov.cy/gr/%CF%85%CF%80%CE%BF%CF%85%CF%81%CE%B3%CE%B5%CE%AF%CE%BF-%CE%BF%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CF%8E%CE%BD/%CF%85%CF%80%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82-%CE%BF%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CF%8E%CE",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/4l9v3rks.jpg?itok=SCwbQcvo"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/4l9v3rks.jpg?itok=z_QYZThO",
+			"wikidata_entity_id": "Q12885971"
 		},
 		"part": [
 			{
@@ -7652,7 +7666,8 @@
 			"title": "Χριστόφορος Φωκαϊδης",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://www.army.gov.cy/el/page/ipourgos-aminas",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/0jpg.jpg?itok=pZsGfsJ1"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/0jpg.jpg?itok=DnoL7JQj",
+			"wikidata_entity_id": "Q47529664"
 		},
 		"part": [
 			{
@@ -7978,7 +7993,8 @@
 			"title": "Αβέρωφ Νεοφύτου",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2095",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/AVEROF_10001.jpg?itok=NfoJ-Oe8"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/AVEROF_10001.jpg?itok=YJoVUXCF",
+			"wikidata_entity_id": "Q15951474"
 		},
 		"part": [
 			{
@@ -8521,7 +8537,8 @@
 			"title": "Άγγελος Βότσης",
 			"politicalAffiliation": "ΔΗΚΟ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2056",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/V%20otsis0002.jpg?itok=JxxqzHWM"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/V%20otsis0002.jpg?itok=KyL6ge_w",
+			"wikidata_entity_id": "Q52991208"
 		},
 		"part": [
 			{
@@ -9059,7 +9076,8 @@
 			"title": "Αδάμος Αδάμου",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2054",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Adamou%20Adamos.jpg?itok=fB6k2tUv"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Adamou%20Adamos.jpg?itok=Ba_ZSntu",
+			"wikidata_entity_id": "Q351655"
 		},
 		"part": [
 			{
@@ -9515,7 +9533,8 @@
 			"title": "Ανδρέας Ζ. Κυπριανού",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2079",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/KyprianouDHSY.jpg?itok=CUm4PfWq"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/KyprianouDHSY.jpg?itok=JG7NUv0U",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -9683,7 +9702,7 @@
 						{
 							"companyName": {
 								"label": "Όνομα επιχείρησης",
-								"value": "A.P Kyprianou & Sons Ltd"
+								"value": "A.P Kyprianou &amp; Sons Ltd"
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
@@ -9719,7 +9738,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "A.P Kyprianou & Sons Ltd"
+									"value": "A.P Kyprianou &amp; Sons Ltd"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -9904,7 +9923,8 @@
 			"title": "Άννα Θεολόγου",
 			"politicalAffiliation": "Συμμαχία Πολιτών",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2070",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Theologou.jpg?itok=yCg3Ijyk"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Theologou.jpg?itok=mVWL0FDg",
+			"wikidata_entity_id": "Q54152815"
 		},
 		"part": [
 			{
@@ -10215,7 +10235,8 @@
 			"title": "Αννίτα Δημητρίου",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2062",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/IMG_6953-Annita%20Demetriou.jpg?itok=VyPiydve"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/IMG_6953-Annita%20Demetriou.jpg?itok=iNtD881l",
+			"wikidata_entity_id": "Q47984268"
 		},
 		"part": [
 			{
@@ -10445,7 +10466,8 @@
 			"title": "Αντρεάς Καυκαλιάς",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2074",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Kafkalias%20Andros.jpg?itok=mU75CB2p"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Kafkalias%20Andros.jpg?itok=RE-ffymu",
+			"wikidata_entity_id": "Q12873768"
 		},
 		"part": [
 			{
@@ -10752,7 +10774,8 @@
 			"title": "Νίκος Τορναρίτης",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2110",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Fakontis%20Andreas.jpg?itok=SMjShGMG"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Fakontis%20Andreas.jpg?itok=VN8ea7Tf",
+			"wikidata_entity_id": "Q12873769"
 		},
 		"part": [
 			{
@@ -11080,7 +11103,8 @@
 			"title": "Άντρος Κυπριανού",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2080",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Kiprianou%20Andros0001.jpg?itok=Q3ly79Un"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Kiprianou%20Andros0001.jpg?itok=qHYsrSB7",
+			"wikidata_entity_id": "Q514075"
 		},
 		"part": [
 			{
@@ -11322,7 +11346,8 @@
 			"title": "Άριστος Δαμιανού",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2061",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/DAMIANOU.JPG?itok=XCOchYWY"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/DAMIANOU.JPG?itok=PsQUflb-",
+			"wikidata_entity_id": "Q12872352"
 		},
 		"part": [
 			{
@@ -11478,7 +11503,7 @@
 						{
 							"companyName": {
 								"label": "Όνομα επιχείρησης",
-								"value": "Άριστος Δαμιανού & Συνεργάτες ΔΕΠΕ"
+								"value": "Άριστος Δαμιανού &amp; Συνεργάτες ΔΕΠΕ"
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
@@ -11629,7 +11654,7 @@
 					"order": 7,
 					"title": "Αιτιολόγηση της οποιασδήποτε διαφοροποίησης περουσιακών στοιχείων που μεσολαβεί μεταξύ δύο δηλώσεων",
 					"differences": {
-						"value": "<p>Το διαμέρισμα στην Αγ. Νάπα έχει εκχερωθεί δυνάμει ιδιωτκής συμφωνίας</p><br />"
+						"value": "<p>Το διαμέρισμα στην Αγ. Νάπα έχει εκχρ<span style=\"font-size: 13px;\">ε</span><span style=\"font-size: 13px;\">ωθεί δυνάμει ιδιωτκής συμφωνίας</span></p><br />"
 					}
 				}
 				]
@@ -11641,7 +11666,8 @@
 			"title": "Γεώργιος Κ Γεωργίου",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2057",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Georgiou%20Giorgos_portrait.jpg?itok=KfdB8bno"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Georgiou%20Giorgos_portrait.jpg?itok=B7Ttr5Dh",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -12127,7 +12153,8 @@
 			"title": "Γεώργιος Παπαδόπουλος",
 			"politicalAffiliation": "Αλληλεγγύη",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2099",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Papadopoulos%20G-Allileggyi%20DSC_3007.JPG?itok=Ka3BCRru"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Papadopoulos%20G-Allileggyi%20DSC_3007.JPG?itok=TlBzYusj",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -12644,7 +12671,8 @@
 			"title": "Γεώργιος Προκοπίου",
 			"politicalAffiliation": "ΔΗΚΟ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2103",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/GiorgosProkopiou.jpg?itok=Rf7E7gOM"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/GiorgosProkopiou.jpg?itok=TB1HYeq7",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -13004,7 +13032,8 @@
 			"title": "Γιώργος Κ. Γεωργίου",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2058",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Georgiou%20Giwrgos.jpg?itok=0Bc1bscv"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Georgiou%20Giwrgos.jpg?itok=Vxtg5Q8i",
+			"wikidata_entity_id": "Q16329183"
 		},
 		"part": [
 			{
@@ -13260,7 +13289,8 @@
 			"title": "Γιώργος Καρούλλας",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2072",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/KAroullas-small.jpg?itok=G3OcrixB"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/KAroullas-small.jpg?itok=vHQOmKnq",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -13562,7 +13592,8 @@
 			"title": "Γιώργος Λιλλήκας",
 			"politicalAffiliation": "Συμμαχία Πολιτών",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2085",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/%CE%93%CE%99%CE%A9%CE%A1%CE%93%CE%9F%CE%A3%20%CE%9B%CE%99%CE%9B%CE%9B%CE%97%CE%9A%CE%91%CE%A3-small.jpg?itok=zukwj85m"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/%CE%93%CE%99%CE%A9%CE%A1%CE%93%CE%9F%CE%A3%20%CE%9B%CE%99%CE%9B%CE%9B%CE%97%CE%9A%CE%91%CE%A3-small.jpg?itok=fXMOEOJb",
+			"wikidata_entity_id": "Q694791"
 		},
 		"part": [
 			{
@@ -13997,7 +14028,7 @@
 							},
 							"debtType": {
 								"label": "Είδος χρέους",
-								"value": "Τρεχούμενος & Πιστωτική Κάρτα"
+								"value": "Τρεχούμενος &amp; Πιστωτική Κάρτα"
 							},
 							"debtAmount": {
 								"label": "Ποσό χρέους",
@@ -14024,7 +14055,8 @@
 			"title": "Γιώργος Λουκαϊδης",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2086",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Loukaidis%20Giwrgos.jpg?itok=9Cjvb8c6"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Loukaidis%20Giwrgos.jpg?itok=lTSuaY4t",
+			"wikidata_entity_id": "Q12875354"
 		},
 		"part": [
 			{
@@ -14352,7 +14384,8 @@
 			"title": "Γιώργος Περδίκης",
 			"politicalAffiliation": "Κίνημα Οικολόγων-Συνεργασία Πολιτών",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2101",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/George%20Perdikes_thumb.jpg?itok=PU362Mf5"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/George%20Perdikes_thumb.jpg?itok=nJDFXsQD",
+			"wikidata_entity_id": "Q5543328"
 		},
 		"part": [
 			{
@@ -14760,7 +14793,8 @@
 			"title": "Γεωργίου Γεώργιος Τιμοθέου",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Georgiou%20LEM.jpg?itok=To038Wa0"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Georgiou%20LEM.jpg?itok=fC_iOCNk",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -15113,7 +15147,8 @@
 			"title": "Δημήτρης Δημητρίου",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2063",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Demetriou%20Demetris.jpg?itok=D7Ao6zTr"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Demetriou%20Demetris.jpg?itok=gvgbtd4a",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -15609,7 +15644,8 @@
 			"title": "Ειρήνη Χαραλαμπίδου",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2111",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Charalambidou%20Eirini.jpg?itok=sgWZTbtA"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Charalambidou%20Eirini.jpg?itok=2uwIBD8r",
+			"wikidata_entity_id": "Q12876791"
 		},
 		"part": [
 			{
@@ -15906,7 +15942,8 @@
 			"title": "Ελένη Μαύρου",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2089",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/eleni%20mavrou-2.jpg?itok=cKFw-bw3"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/eleni%20mavrou-2.jpg?itok=DUtiZeMS",
+			"wikidata_entity_id": "Q2792539"
 		},
 		"part": [
 			{
@@ -16194,7 +16231,8 @@
 			"title": "Ελένη Σταύρου",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2106",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Eleni%20Stavrou.jpg?itok=aVa27THx"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Eleni%20Stavrou.jpg?itok=CI53u4H9",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -16428,7 +16466,8 @@
 			"title": "Ευθύμιος Δίπλαρος",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2064",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Diplaros%20Efthymios%202016.jpg?itok=sKV7KVQv"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Diplaros%20Efthymios%202016.jpg?itok=biiVIgpd",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -16616,7 +16655,8 @@
 			"title": "Ζαχαρίας Ζαχαρίου",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2069",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/ZACHARIOU_Zacharias.jpg?itok=xKQm1Pen"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/ZACHARIOU_Zacharias.jpg?itok=_8j5c05f",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -17036,7 +17076,8 @@
 			"title": "Ζαχαρίας Κουλίας",
 			"politicalAffiliation": "ΔΗΚΟ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2077",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Koulias0001.jpg?itok=cSpd9D2t"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Koulias0001.jpg?itok=mubtXjZe",
+			"wikidata_entity_id": "Q53461424"
 		},
 		"part": [
 			{
@@ -17192,7 +17233,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Τ.Κ.Φ & Θ Οικοπεδική Λτδ"
+									"value": "Τ.Κ.Φ &amp; Θ Οικοπεδική Λτδ"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -17332,7 +17373,8 @@
 			"title": "Ηλίας Μυριάνθους",
 			"politicalAffiliation": "ΕΔΕΚ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2094",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/MYRIANTHOUS-small.jpg?itok=2l-NVq0a"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/MYRIANTHOUS-small.jpg?itok=BjHBvUCH",
+			"wikidata_entity_id": "Q53997687"
 		},
 		"part": [
 			{
@@ -17498,7 +17540,7 @@
 							},
 							"type": {
 								"label": "Είδος",
-								"value": "Κτοικία & Οικόπεδο"
+								"value": "Κτοικία &amp; Οικόπεδο"
 							},
 							"topographicData": {
 								"label": "Τοπογραφικά στοιχεία",
@@ -17656,7 +17698,7 @@
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
-								"value": "Συμβουλευτικό & Λογιστικό Γραφείο"
+								"value": "Συμβουλευτικό &amp; Λογιστικό Γραφείο"
 							},
 							"companyParticipation": {
 								"label": "Είδος συμμετοχής",
@@ -17666,7 +17708,7 @@
 						{
 							"companyName": {
 								"label": "Όνομα επιχείρησης",
-								"value": "Α&Η Χρηματοοικονομική Λτδ"
+								"value": "Α&amp;Η Χρηματοοικονομική Λτδ"
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
@@ -17730,7 +17772,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "A&H Χρηματοοικονομική Λτδ"
+									"value": "A&amp;H Χρηματοοικονομική Λτδ"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -17744,7 +17786,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Σπύρος Μυριάνθους & Υιοί Λτδ"
+									"value": "Σπύρος Μυριάνθους &amp; Υιοί Λτδ"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -17784,7 +17826,7 @@
 						"order": "ε",
 						"title": "Άλλα εισοδήματα",
 						"otherIncome": {
-							"value": "<p>Στην εταιρεία Α&Η Χρηματοοικονομική λτδ υπάρουν δυο ακίνητα.</p><br /> <p>Το (Α) Ακίνητο διαμέρισμα στην Πόλη Χρυσοχούς το οποίο αγοράστηκε με δάνειο. Το (Β) ακίνητο αφορά οικόπεδο στο οποίο ανεγέρθηκαν 4 μεζονέτες το 2007. Η αξία αγορά του οικοπεέδυ και η ανέγερση του κτηρίου ήταν €320,000 η σημερινή αξία είναι €500,000. Έγινε δάνειο από το συνεργατικό ταμιευτήριο το οποίο είναι στο όνομα μου.</p><br />"
+							"value": "<p>Στην εταιρεία Α&amp;Η Χρηματοοικονομική λτδ υπάρουν δυο ακίνητα.</p><br /> <p>Το (Α) Ακίνητο διαμέρισμα στην Πόλη Χρυσοχούς το οποίο αγοράστηκε με δάνειο. Το (Β) ακίνητο αφορά οικόπεδο στο οποίο ανεγέρθηκαν 4 μεζονέτες το 2007. Η αξία αγορά του οικοπεέδυ και η ανέγερση του κτηρίου ήταν €320,000 η σημερινή αξία είναι €500,000. Έγινε δάνειο από το συνεργατικό ταμιευτήριο το οποίο είναι στο όνομα μου.</p><br />"
 						}
 					}
 					]
@@ -17852,7 +17894,8 @@
 			"title": "Κυριάκος Χατζηγιάννης",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2112",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Hadjiyiannis%20kiriakos%2010%20AM.jpg?itok=J0KqF8E7"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Hadjiyiannis%20kiriakos%2010%20AM.jpg?itok=Dzwzxft7",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -18203,7 +18246,8 @@
 			"title": "Κωνσταντίνος Ευσταθίου",
 			"politicalAffiliation": "ΕΔΕΚ",
 			"biographyLink": "",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/EYSTATHIOU-small.jpg?itok=Heblt5lW"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/EYSTATHIOU-small.jpg?itok=u3fQOMS2",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -18631,7 +18675,8 @@
 			"title": "Κώστας Μ Κωνσταντίνου",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2082",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Kostandinou%20Kostas%201%20PAF.jpg?itok=M6jW6B-r"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Kostandinou%20Kostas%201%20PAF.jpg?itok=bx3YXUAU",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -19064,7 +19109,7 @@
 							},
 							"debtType": {
 								"label": "Είδος χρέους",
-								"value": "Οικοδομικό για ανέγερση κατοικίας & σπουδές παιδιών"
+								"value": "Οικοδομικό για ανέγερση κατοικίας &amp; σπουδές παιδιών"
 							},
 							"debtAmount": {
 								"label": "Ποσό χρέους",
@@ -19107,7 +19152,8 @@
 			"title": "Κώστας Κώστα",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2083",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Costa%20Costas.jpg?itok=7Ndrefwc"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Costa%20Costas.jpg?itok=Beuq8XKP",
+			"wikidata_entity_id": "Q12879928"
 		},
 		"part": [
 			{
@@ -19325,7 +19371,8 @@
 			"title": "Λίνος Παπαγιάννης",
 			"politicalAffiliation": "ΕΛΑΜ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2098",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/PAPAGIANNIS-small.jpg?itok=ynzShn1i"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/PAPAGIANNIS-small.jpg?itok=7SYuhLPh",
+			"wikidata_entity_id": "Q49782374"
 		},
 		"part": [
 			{
@@ -19615,7 +19662,8 @@
 			"title": "",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2055",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/ARISTIDOU%20Mariella.jpg?itok=AXZc1oJ7"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/ARISTIDOU%20Mariella.jpg?itok=PhyWNqR8",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -19808,7 +19856,8 @@
 			"title": "Μαρίνος",
 			"politicalAffiliation": "ΔΗΚΟ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2092",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/MoushouttasM-thumb.jpg?itok=QGT_ssEv"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/MoushouttasM-thumb.jpg?itok=aWG9SPVJ",
+			"wikidata_entity_id": "Q52774772"
 		},
 		"part": [
 			{
@@ -20122,7 +20171,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "K & G Complex Public Co"
+									"value": "K &amp; G Complex Public Co"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -20528,7 +20577,8 @@
 			"title": "Μαρίνος Σιζόπουλος",
 			"politicalAffiliation": "ΕΔΕΚ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2105",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/SIZOPOULOS-small.jpg?itok=uMUzCRqx"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/SIZOPOULOS-small.jpg?itok=eoGcK5Dx",
+			"wikidata_entity_id": "Q12880743"
 		},
 		"part": [
 			{
@@ -20770,7 +20820,8 @@
 			"title": "Μάριος Μαυρίδης",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2088",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Mavrides%20Marios.jpg?itok=Qwe7X3IJ"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Mavrides%20Marios.jpg?itok=AgF-C5WL",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -21090,7 +21141,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Putman Fund for Growth & Income CLA"
+									"value": "Putman Fund for Growth &amp; Income CLA"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -21271,7 +21322,8 @@
 			"title": "Μιχάλης Γιωργάλλας",
 			"politicalAffiliation": "Αλληλεγγύη",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2060",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/GIORGALLAS_MICHALIS_Web.jpg?itok=yHlHF6pZ"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/GIORGALLAS_MICHALIS_Web.jpg?itok=R3o5nDjs",
+			"wikidata_entity_id": "Q53996871"
 		},
 		"part": [
 			{
@@ -21590,7 +21642,8 @@
 			"title": "Νικόλας Παπαδόπουλος",
 			"politicalAffiliation": "ΔΗΚΟ",
 			"biographyLink": "",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Nicholas0001.jpg?itok=206jZRg-"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Nicholas0001.jpg?itok=eZnbj6i7",
+			"wikidata_entity_id": "Q3161181"
 		},
 		"part": [
 			{
@@ -22226,7 +22279,7 @@
 					"order": 5,
 					"title": "Εισοδήματα προηγουμένων ετών που αποκτήθηκαν στο διάστημα που μεσολάβησε από την προηγούμενη μέχρι την παρούσα δήλωση",
 					"previousIncome": {
-						"value": "<p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2011</u></p><br /> <div> </div><br /> <div><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82.452</td><br /> </tr><tr><td style=\"font-size: 13px;\">Μισθός από Τάσσος Παπαδόπουλος & Συνεργάτες Δ.Ε.Π.Ε</td><br /> <td style=\"font-size: 13px;\">34.775</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table><p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2012</u></p><br /> <div style=\"font-size: 13px;\"> </div><br /> <div style=\"font-size: 13px;\"><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82,975</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Μισθός από Τάσσος Παπαδόπουλος & Συνεργάτες Δ.Ε.Π.Ε</td><br /> <td style=\"font-size: 13px;\">40,775</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table></div><br /> </div><br /> <p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2013</u></p><br /> <div style=\"font-size: 13px;\"> </div><br /> <div style=\"font-size: 13px;\"><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82,975</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Μισθός από Τάσσος Παπαδόπουλος & Συνεργάτες Δ.Ε.Π.Ε</td><br /> <td style=\"font-size: 13px;\">49,087</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table></div><br /> <p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2014</u></p><br /> <div style=\"font-size: 13px;\"> </div><br /> <div style=\"font-size: 13px;\"><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82,975</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table></div><br /> <p> </p><br />"
+						"value": "<p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2011</u></p><br /> <div> </div><br /> <div><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82.452</td><br /> </tr><tr><td style=\"font-size: 13px;\">Μισθός από Τάσσος Παπαδόπουλος &amp; Συνεργάτες Δ.Ε.Π.Ε</td><br /> <td style=\"font-size: 13px;\">34.775</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table><p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2012</u></p><br /> <div style=\"font-size: 13px;\"> </div><br /> <div style=\"font-size: 13px;\"><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82,975</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Μισθός από Τάσσος Παπαδόπουλος &amp; Συνεργάτες Δ.Ε.Π.Ε</td><br /> <td style=\"font-size: 13px;\">40,775</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table></div><br /> </div><br /> <p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2013</u></p><br /> <div style=\"font-size: 13px;\"> </div><br /> <div style=\"font-size: 13px;\"><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82,975</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Μισθός από Τάσσος Παπαδόπουλος &amp; Συνεργάτες Δ.Ε.Π.Ε</td><br /> <td style=\"font-size: 13px;\">49,087</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table></div><br /> <p style=\"font-size: 13px;\"><u style=\"font-size: 13px;\">για το έτος 2014</u></p><br /> <div style=\"font-size: 13px;\"> </div><br /> <div style=\"font-size: 13px;\"><br /> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-size:13px;\"><tbody style=\"font-size: 13px;\"><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\"> </td><br /> <td style=\"font-size: 13px;\">€</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Εισοδήματα από Βουλή των αντιπροσώπων</td><br /> <td style=\"font-size: 13px;\">82,975</td><br /> </tr><tr style=\"font-size: 13px;\"><td style=\"font-size: 13px;\">Ενοίκια Εισπρακτέα</td><br /> <td style=\"font-size: 13px;\">22.992</td><br /> </tr></tbody></table></div><br /> <p> </p><br />"
 					}
 				},
 				{
@@ -22285,7 +22338,8 @@
 			"title": "Νίκος Κέττηρος",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2075",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Kettiros%201.jpg?itok=3kRZTHJ9"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Kettiros%201.jpg?itok=Vl5mO_01",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -22519,7 +22573,8 @@
 			"title": "Νίκος Νουρής",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2096",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/NICOS%20NOURIS.jpg?itok=vNU_za6B"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/NICOS%20NOURIS.jpg?itok=dSmS3CXv",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -22944,7 +22999,8 @@
 			"title": "Νίκος Τορναρίτης",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2109",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Tornaritis.jpg?itok=CmM4CgUw"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Tornaritis.jpg?itok=qJrune1N",
+			"wikidata_entity_id": "Q12881566"
 		},
 		"part": [
 			{
@@ -23487,7 +23543,8 @@
 			"title": "",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2078",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/kOULLA-small.jpg?itok=6OtqAOce"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/kOULLA-small.jpg?itok=UplP_J1d",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -23794,7 +23851,8 @@
 			"title": "Παναγιώτης Λεωνίδου",
 			"politicalAffiliation": "ΔΗΚΟ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2084",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Leonidou.jpg?itok=xsBZKUHb"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Leonidou.jpg?itok=zP2N1pWG",
+			"wikidata_entity_id": "Q52776576"
 		},
 		"part": [
 			{
@@ -24154,7 +24212,7 @@
 						{
 							"companyName": {
 								"label": "Όνομα επιχείρησης",
-								"value": "Πανίκος Α Λεωνίδου & Σια"
+								"value": "Πανίκος Α Λεωνίδου &amp; Σια"
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
@@ -24217,7 +24275,7 @@
 						"order": "ε",
 						"title": "Άλλα εισοδήματα",
 						"otherIncome": {
-							"value": "<p><u>2017</u></p><br /> <p>Ενοίκια 1/2 - €2100 το χρόνο</p><br /> <p> </p><br /> <p>Αμοιβή από τον Συνεταιρισμό</p><br /> <p>Πανίκος Α Λεωνίδου & Σια €3500.00 τον μήνα</p><br />"
+							"value": "<p><u>2017</u></p><br /> <p>Ενοίκια 1/2 - €2100 το χρόνο</p><br /> <p> </p><br /> <p>Αμοιβή από τον Συνεταιρισμό</p><br /> <p>Πανίκος Α Λεωνίδου &amp; Σια €3500.00 τον μήνα</p><br />"
 						}
 					}
 					]
@@ -24301,7 +24359,7 @@
 						{
 							"debtor": {
 								"label": "Όνομα πιστωτή",
-								"value": "Δικηγορικό Γραφείο Πανίκος Α. Λεωνίδου & Σια",
+								"value": "Δικηγορικό Γραφείο Πανίκος Α. Λεωνίδου &amp; Σια",
 								"metaValue": "Δικηγορικό Γραφείο Πανίκος Α. Λεωνίδου & Σια"
 							},
 							"debtType": {
@@ -24333,7 +24391,8 @@
 			"title": "Παύλος Μυλωνάς",
 			"politicalAffiliation": "Ανεξάρτητοι",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2093",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/foto%20paulou%20mylwna.jpg?itok=3Kcdplrz"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/foto%20paulou%20mylwna.jpg?itok=gzlxOvjV",
+			"wikidata_entity_id": "Q52773609"
 		},
 		"part": [
 			{
@@ -24519,7 +24578,8 @@
 			"title": "Σάββα Ευναθία",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2104",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Savva%20Ev%20001.jpg?itok=Huq1S_6V"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Savva%20Ev%20001.jpg?itok=oWhwRGTe",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -24805,7 +24865,8 @@
 			"title": "Σκεύη Κούτρα-Κουκουμά",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Koutra-%20Koukouma%20Skevi.jpg?itok=tTh2FgaY"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Koutra-%20Koukouma%20Skevi.jpg?itok=4FS7gMvw",
+			"wikidata_entity_id": "Q12884514"
 		},
 		"part": [
 			{
@@ -25138,7 +25199,8 @@
 			"title": "Σόλωνας Κασίνης",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2073",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Kasinis.jpg?itok=M6DZ0lxI"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Kasinis.jpg?itok=rAK4GWtf",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -25493,7 +25555,7 @@
 								"insuranceCompany": {
 									"label": "Όνομα ασφαλιστικής εταιρείας",
 									"value": "Σ.Ο.ΤΑ.Δ.Υ.Κ",
-									"metaValue": "Συνεργατική Οικοδομική & Ταμιευτήριο Δημοσίων Υπαλλήλων Κύπρου ΛΤΔ"
+									"metaValue": "Συνεργατική Οικοδομική &amp; Ταμιευτήριο Δημοσίων Υπαλλήλων Κύπρου ΛΤΔ"
 								},
 								"insuranceNumber": {
 									"label": "Αριθμός ασφαλστικού συμβολαίου",
@@ -25545,7 +25607,8 @@
 			"title": "Στέλλα Κυριακίδου",
 			"politicalAffiliation": "",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2081",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Kyriakidou%20Stella%205%20LEF.jpg?itok=zoxD5jN7"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Kyriakidou%20Stella%205%20LEF.jpg?itok=nV6tfPT6",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -25979,7 +26042,8 @@
 			"title": "Στέφανος Στεφάνου",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2107",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/stefanos%20stefanou.jpg?itok=9M7lrHM7"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/stefanos%20stefanou.jpg?itok=O27GEs0J",
+			"wikidata_entity_id": "Q12884748"
 		},
 		"part": [
 			{
@@ -26232,7 +26296,8 @@
 			"title": "Άννα Θεολόγου",
 			"politicalAffiliation": "Κίνημα Οικολόγων-Συνεργασία Πολιτών",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2071",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/TheopemptouX15.jpg?itok=qTaDRLOd"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/TheopemptouX15.jpg?itok=5GuqDdO6",
+			"wikidata_entity_id": "Q53632707"
 		},
 		"part": [
 			{
@@ -26536,7 +26601,8 @@
 			"title": "Χαράλαμπος Πιττοκοπίτης",
 			"politicalAffiliation": "ΔΗΚΟ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2102",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/pittokopitis.jpg?itok=DKeV5Jg7"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/pittokopitis.jpg?itok=4xAYuHRB",
+			"wikidata_entity_id": "Q55206372"
 		},
 		"part": [
 			{
@@ -27241,7 +27307,8 @@
 			"title": "Χριστάκης Τζιοβάνης",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2108",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/Giovanis%20Christakis.jpg?itok=ilkNyjC_"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/Giovanis%20Christakis.jpg?itok=5rlnHiS2",
+			"wikidata_entity_id": "Q12886195"
 		},
 		"part": [
 			{
@@ -27519,7 +27586,7 @@
 						{
 							"companyName": {
 								"label": "Όνομα επιχείρησης",
-								"value": "Χρ. Τζιοβάνης & Σια Κατασκ. Δ.Ε. Λτδ"
+								"value": "Χρ. Τζιοβάνης &amp; Σια Κατασκ. Δ.Ε. Λτδ"
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
@@ -27645,7 +27712,7 @@
 						{
 							"companyName": {
 								"label": "Όνομα επιχείρησης",
-								"value": "Giovanis & Kalvaris Ltd"
+								"value": "Giovanis &amp; Kalvaris Ltd"
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
@@ -27893,7 +27960,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Χρ. Τζιοβάνης & Σια Κατ. Δ.Ε. Λτδ"
+									"value": "Χρ. Τζιοβάνης &amp; Σια Κατ. Δ.Ε. Λτδ"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -28019,7 +28086,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Giovanis & Kalvaris Ltd"
+									"value": "Giovanis &amp; Kalvaris Ltd"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -28269,7 +28336,7 @@
 						{
 							"debtor": {
 								"label": "Όνομα πιστωτή",
-								"value": "Demitov Victor & Demitova Nina",
+								"value": "Demitov Victor &amp; Demitova Nina",
 								"metaValue": "Demitov Victor & Demitova Nina"
 							},
 							"debtType": {
@@ -28301,7 +28368,8 @@
 			"title": "Χριστίανα Ερωτοκρίτου",
 			"politicalAffiliation": "ΔΗΚΟ",
 			"biographyLink": "",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/erotokritou-small.jpg?itok=KgvJx2j7"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/erotokritou-small.jpg?itok=Xw621l4I",
+			"wikidata_entity_id": "Q52776264"
 		},
 		"part": [
 			{
@@ -28443,7 +28511,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "A.P.Eorokritou & Co LLC"
+									"value": "A.P.Eorokritou &amp; Co LLC"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -28457,7 +28525,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "A.P Erotokriou & Co LLC"
+									"value": "A.P Erotokriou &amp; Co LLC"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -28544,7 +28612,7 @@
 					"order": 5,
 					"title": "Εισοδήματα προηγουμένων ετών που αποκτήθηκαν στο διάστημα που μεσολάβησε από την προηγούμενη μέχρι την παρούσα δήλωση",
 					"previousIncome": {
-						"value": ""
+						"value": "<p><span style=\"font-size: 13px;\">Μισθοί και μερίσματα €100.000</span></p><br />"
 					}
 				},
 				{
@@ -28557,7 +28625,7 @@
 					"order": 7,
 					"title": "Αιτιολόγηση της οποιασδήποτε διαφοροποίησης περουσιακών στοιχείων που μεσολαβεί μεταξύ δύο δηλώσεων",
 					"differences": {
-						"value": "<p>Μισθοί και μερίσματα €100.000</p><br />"
+						"value": ""
 					}
 				}
 				]
@@ -28569,7 +28637,8 @@
 			"title": "Χρίστος Ορφανίδης",
 			"politicalAffiliation": "ΔΗΚΟ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2097",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/ORFANIDES-SMALL.jpg?itok=Sfjzwrwd"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/ORFANIDES-SMALL.jpg?itok=d9bjg5DH",
+			"wikidata_entity_id": "Q53553067"
 		},
 		"part": [
 			{
@@ -28681,7 +28750,7 @@
 							},
 							"companyType": {
 								"label": "Είδος επιχείρησης",
-								"value": "Ιδιωτική Εταιρεία Ασφ. Πρ. & Συμβ. Λτδ"
+								"value": "Ιδιωτική Εταιρεία Ασφ. Πρ. &amp; Συμβ. Λτδ"
 							},
 							"companyParticipation": {
 								"label": "Είδος συμμετοχής",
@@ -28757,7 +28826,7 @@
 								},
 								"liquidAssetDescription": {
 									"label": "Περιγραφή κινητής αξίας",
-									"value": "Regallia Holidngs & Inversments Pub. Ltd  Εταιρεία"
+									"value": "Regallia Holidngs &amp; Inversments Pub. Ltd  Εταιρεία"
 								},
 								"liquidAssetNumber": {
 									"label": "Αριθμός σε κατοχή",
@@ -28809,7 +28878,7 @@
 						"order": "ε",
 						"title": "Άλλα εισοδήματα",
 						"otherIncome": {
-							"value": "<p>Χρ. Ορφανίδης Εταρεία Ασφαλιστικών Πρακτόρων & Συμβούλων Λτδ €600</p><br />"
+							"value": "<p>Χρ. Ορφανίδης Εταρεία Ασφαλιστικών Πρακτόρων &amp; Συμβούλων Λτδ €600</p><br />"
 						}
 					}
 					]
@@ -28893,7 +28962,8 @@
 			"title": "Χρίστος Χρίστου",
 			"politicalAffiliation": "ΕΛΑΜ",
 			"biographyLink": "http://parliament.cy/easyconsole.cfm/id/2113",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/CHRISTOU-small.jpg?itok=gWina-FO"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/CHRISTOU-small.jpg?itok=i6tdVMML",
+			"wikidata_entity_id": "Q47463125"
 		},
 		"part": [
 			{
@@ -29067,7 +29137,7 @@
 						{
 							"debtor": {
 								"label": "Όνομα πιστωτή",
-								"value": "ΣΠΕ Ταμασσού - Ορεινής & Πιτσιλιάς",
+								"value": "ΣΠΕ Ταμασσού - Ορεινής &amp; Πιτσιλιάς",
 								"metaValue": "ΣΠΕ Ταμασσού-Ορεινής και Πιτσιλιάς Λτδ"
 							},
 							"debtType": {
@@ -29099,7 +29169,8 @@
 			"title": "Παπαδάκης Δημήτρης",
 			"politicalAffiliation": "ΕΔΕΚ",
 			"biographyLink": "http://www.europarl.europa.eu/meps/el/124692/DEMETRIS_PAPADAKIS_cv.html",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/124692.jpg?itok=EYpHYAVg"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/124692.jpg?itok=B3oS2Irs",
+			"wikidata_entity_id": "Q17315553"
 		},
 		"part": [
 			{
@@ -29478,7 +29549,8 @@
 			"title": "Ελένη Θεοχάρους",
 			"politicalAffiliation": "Αλληλεγγύη",
 			"biographyLink": "http://www.elenitheocharous.com/page.php?id=4&lng=GR",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/25704.jpg?itok=qxwKdkE2"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/25704.jpg?itok=Ikj0DjGg",
+			"wikidata_entity_id": "Q468077"
 		},
 		"part": [
 			{
@@ -29878,7 +29950,7 @@
 						{
 							"location": {
 								"label": "Τοποθεσία",
-								"value": "Λ. Πουλίου & Καπότα  Π. Κερύνεια"
+								"value": "Λ. Πουλίου &amp; Καπότα  Π. Κερύνεια"
 							},
 							"type": {
 								"label": "Είδος",
@@ -29912,7 +29984,7 @@
 						{
 							"location": {
 								"label": "Τοποθεσία",
-								"value": "Λ. Πουλίου & Καπότα  Π. Κερύνεια"
+								"value": "Λ. Πουλίου &amp; Καπότα  Π. Κερύνεια"
 							},
 							"type": {
 								"label": "Είδος",
@@ -30594,7 +30666,8 @@
 			"title": "Κώστας Μαυρίδης",
 			"politicalAffiliation": "ΔΗΚΟ",
 			"biographyLink": "http://www.europarl.europa.eu/meps/en/124691/COSTAS_MAVRIDES_cv.html",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/124691.jpg?itok=NrLhRpCV"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/124691.jpg?itok=ICUPSNGF",
+			"wikidata_entity_id": "Q11744122"
 		},
 		"part": [
 			{
@@ -30982,7 +31055,8 @@
 			"title": "Χριστοφόρου Λευτέρης",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://www.europarl.europa.eu/meps/en/26837/LEFTERIS_CHRISTOFOROU_cv.html",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/26837.jpg?itok=FtlZT9RZ"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/26837.jpg?itok=fVYyTv8J",
+			"wikidata_entity_id": "Q16571128"
 		},
 		"part": [
 			{
@@ -31385,7 +31459,8 @@
 			"title": "Νεοκλής Συλικιώτης",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://www.europarl.europa.eu/meps/en/124689/NEOKLIS_SYLIKIOTIS_cv.html",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/124689.jpg?itok=UWIwQ4tL"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/124689.jpg?itok=3JrAmFZD",
+			"wikidata_entity_id": "Q16330441"
 		},
 		"part": [
 			{
@@ -31645,7 +31720,8 @@
 			"title": "Τάκης Χατζηγεωργίου",
 			"politicalAffiliation": "ΑΚΕΛ",
 			"biographyLink": "http://www.europarl.europa.eu/meps/el/96907/TAKIS_HADJIGEORGIOU_cv.html",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/96907.jpg?itok=YfFhhXUv"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/96907.jpg?itok=VytPmzM7",
+			"wikidata_entity_id": "Q545492"
 		},
 		"part": [
 			{
@@ -32135,7 +32211,8 @@
 			"title": "Βασίλης Πάλμας",
 			"politicalAffiliation": "ΔΗΚΟ",
 			"biographyLink": "http://www.presidency.gov.cy/presidency/presidency.nsf/prc15_gr/prc15_gr?OpenDocument",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/0%20%281%29.gif?itok=A7bHiG2n"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/0%20%281%29.gif?itok=_AE-UMV7",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -32338,7 +32415,8 @@
 			"title": "Κωνσταντίνος Πετρίδης",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "http://www.moi.gov.cy/moi/moi.nsf/page10_gr/page10_gr?OpenDocument",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/0%20%284%29_0.jpg?itok=nomKXKNi"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/0%20%284%29_0.jpg?itok=fmRvm_GY",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
@@ -32630,7 +32708,8 @@
 			"title": "Σωκράτης Χάσικος",
 			"politicalAffiliation": "ΔΗΣΥ",
 			"biographyLink": "",
-			"image": "http://tldr.lostattic.com/sites/default/files/styles/pothen_esxes_json/public/0%20%281%29_0.jpg?itok=zXNR4iss"
+			"image": "https://chatterbox.network/sites/default/files/styles/pothen_esxes_json/public/0%20%281%29_0.jpg?itok=LaIzDT2n",
+			"wikidata_entity_id": ""
 		},
 		"part": [
 			{
